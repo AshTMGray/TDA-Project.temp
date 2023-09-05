@@ -1,0 +1,18 @@
+.headerMain {
+    background-color: #FF00FF;
+    color: #00FF00;
+    font-family: monospace;
+    font-size: 36px;
+    font-weight: 600;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+}
+.paragraphMain {
+    background: linear-gradient(#F08080, #8080F0);
+    color: #000000;
+    border-radius: 15px;
+    text-align: left;
+    padding: 10px;
+} 
